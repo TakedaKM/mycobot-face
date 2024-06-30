@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{CD0CB9C1-9B08-DB17-65FA-C35677C4E369}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FacePosAngleMove.cs">
+    <Files>
+      <File FileName="Assets/Scripts/FacePosMark.cs" Line="111" Column="27" />
+      <File FileName="Assets/Scripts/FacePosAngleMove.cs" Line="79" Column="1" />
+      <File FileName="Assets/OpenCV+Unity/Demo/Scripts/WebCamera.cs" Line="144" Column="49" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c57e0b5e-557e-42e4-83fb-766fdd5defee" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
