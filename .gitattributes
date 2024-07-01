@@ -1,1 +1,9 @@
 OpenCVex07/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/libburst-llvm-16.dylib filter=lfs diff=lfs merge=lfs -text
+OpenCVex07/Assets/OpenCV+Unity/Demo/Face_Detector/shape_predictor_68_face_landmarks.bytes filter=lfs diff=lfs merge=lfs -text
+OpenCVex07/Library/Artifacts/e1/e1ecb8d13f94af10c37573c64551979f filter=lfs diff=lfs merge=lfs -text
+OpenCVex07/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/hostmac/dsymutil filter=lfs diff=lfs merge=lfs -text
+OpenCVex07/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/libburst-llvm-10.dylib filter=lfs diff=lfs merge=lfs -text
+OpenCVex07/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/libburst-llvm-16.so filter=lfs diff=lfs merge=lfs -text
+OpenCVex07/Assets/OpenCV+Unity/Plugins/iOS/libOpenCvSharpExtern.a filter=lfs diff=lfs merge=lfs -text
+OpenCVex07/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/burst-llvm-16-arm64.dll filter=lfs diff=lfs merge=lfs -text
+OpenCVex07/Library/PackageCache/com.unity.burst@1.8.13/.Runtime/burst-llvm-16.dll filter=lfs diff=lfs merge=lfs -text
